@@ -1,6 +1,1 @@
-"# PRODIGY_CS_01" 
-"# PRODIGY_CS_01" 
-"# PRODIGY_CS_02" 
-"# PRODIGY_CS_02" 
-"# PRODIGY_CS_02" 
-"# PRODIGY_CS_02" 
+# Prodigy Infotech Cyber Security Internship Task 2
